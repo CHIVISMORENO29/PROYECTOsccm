@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P1YLE</string>
+    <string name="bn">Principal Imagen</string>
+    <string name="pdts">Pantalla de Datos</string>
+    <string name="divisc">Ingenieria en Sistemas Computacionales</string>
+    <string name="asig">Materia: Introduccion a Dispositivos Moviles</string>
+    <string name="alm">Alumna: Yoselin Lara Estrada</string>
+    <string name="gg">Grupo: 7S11</string>
+</resources>
